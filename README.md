@@ -14,6 +14,9 @@ A hub linking all my personal and academic software projects.
 💻 Passionate about full-stack development, finance, and VR applications in tech.
 
 📫 **Connect with me:**  
-[![LinkedIn](https://www.linkedin.com/in/delightoti18/)  
+📫 **Connect with me:**  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Delight%20Oti-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/delightoti18/)  
+[![GitHub](https://img.shields.io/badge/GitHub-DelightOti-black?logo=github)](https://github.com/DelightOti)
+ 
 
 ⭐ *Feel free to explore, offer any suggestions, and I'm always open to collaborations!*
